@@ -13,6 +13,7 @@
 
 - The text expand plugin is still a bit rough around the edges – you might sometimes notice that "reload entries" doesn't always get everything on the page on the first click. You might need to mess around with the time delay parameters in quickadd and the delay in the text expand settings. Also, consider supporting the project or getting the developer coffee.
 - I put my buttons in a separate file so that I could use them inline. Check out the buttons documentation.
+- `buttons.css` needs to go in your `.obsidian/snippets` directory and then enabled in Settings -> Appearance.
 
 
 ### QuickAdd macro configuration:
