@@ -19,3 +19,7 @@
 ### QuickAdd macro configuration:
 
 <img width="638" alt="image" src="https://user-images.githubusercontent.com/9353833/188248493-096ed131-b6d2-485d-81dd-c2e7f33e0f2e.png">
+
+### Result:
+
+![Screen Recording 2022-08-24 at 2 36 40 PM](https://user-images.githubusercontent.com/9353833/188249090-e8011408-1990-4094-a51e-f25a11b6824c.gif)
